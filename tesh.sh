@@ -14,4 +14,3 @@ echo " the statement is false"
 
 fi
 
-anand is ready
